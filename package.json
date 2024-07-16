@@ -1,0 +1,22 @@
+{
+  "name": "Quran",
+  "version": "1.0.0",
+  "description": "Simple CLI to fetch and display specific Ayat from the Quran in English and Indonesian.",
+  "main": "quran.js",
+  "script": {
+    "start": "quran.js"
+  },
+  "keywords": [
+    "CLI",
+    "Quran",
+    "Surah",
+    "Ayah",
+    "JavaScript",
+    "API"
+  ],
+  "author": "Fauzira Alpiandi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
